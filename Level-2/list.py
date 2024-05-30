@@ -124,3 +124,61 @@
 # print(list)
 # or
 # list.pop(1)
+
+
+
+# pop()
+# my_list = [1,2,3,4,5,6,7]
+# my_list = my_list.pop(2)
+# print(my_list)
+
+
+
+
+
+
+
+
+# for loop
+# i=0
+# list = [1,2,3,4,5]
+# for element in range(len(list)):
+#     print(list[i])
+#     i = i+1
+# hence ego satisfied
+
+
+
+
+# while loop
+# list = [1,2,3,4,5]
+# i = 0
+# while i < len(list):
+#     print(list[i])
+#     i = i+1
+    
+
+
+
+# in operator
+# text = "Hello, World!"
+# result = "o" in text
+# NotResult = "x" in text
+# print(result)
+# print(NotResult)
+
+
+
+# unpacking shit
+# list = [1,2,3]
+# one ,two ,three = list
+# print(one)
+# print(two)
+# print(three)
+
+
+# use of rest
+# list = [1,2,3,4,5,6,7]
+# first, second, third, *rest = list
+# print(rest)
+# baaki ke jo bache hue elements hai wo rest hue
