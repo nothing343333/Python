@@ -31,7 +31,25 @@
 
 
 
-word = "Lol"
+# word = "Lol"
 
-for char in word:
-    print(char)
+# for char in word:
+#     print(char)
+
+
+
+
+
+
+
+
+# while loop
+# password = ""
+
+# while len(password) <8:
+#     password = input("Eanter your password\n")
+#     print("enter again\n")
+
+
+# print("Password set! ready to go\n")
+
