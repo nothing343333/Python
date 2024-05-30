@@ -62,9 +62,8 @@
 
 
 
-
-# str.split(separator)
 # sentence = "Python is fun yaar and deep"
+# str.split(sentence)
 # words = sentence.split("Python")
 # print(words)
 
