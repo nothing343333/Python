@@ -1,7 +1,7 @@
 dem = open("Poems.txt", mode="r")
 demdo = dem.read()
 if "twinkle" in demdo:
-    print("Yes!!")
+    print("Twinkle is present\n")
 else:
-    print("Sorry absent!")
+    print("Twinkle is not present\n")
 find = dem.close
