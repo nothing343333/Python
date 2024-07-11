@@ -9,7 +9,7 @@
 # ---------------------------------
 from openai import OpenAI
 
-client = OpenAI(api_key="YOUR_API_KEY")
+client = OpenAI(api_key="API-KEY")
 
 response = client.chat.completions.create(
     model="gpt-3.5-turbo",
@@ -21,3 +21,5 @@ response = client.chat.completions.create(
 message = response.choices[0].message.content
 print(message)
 # ---------------------------------
+
+# the plans of the API key has been changed and I have finished my quota before even using it wow and hence I cannot run this program anymore
