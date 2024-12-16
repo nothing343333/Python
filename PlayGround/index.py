@@ -1,4 +1,5 @@
-# full_name = "John Smith"
-# age = 20
-# new_patient = True
-# print(full_name, age, new_patient)
+x = str(input("enter your string\n"))
+if("  " in x):
+    print("Double space detected\n")
+else:
+    print("Double space not detected\n")
